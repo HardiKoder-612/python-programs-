@@ -1,4 +1,4 @@
 l1=["Hardik",1,2,4,5]
-print(l1[:])
-print(l1[0:])
-print(l1[:4])
+l2=range(6)
+print(l1[1:3])
+print(l1[:2])
